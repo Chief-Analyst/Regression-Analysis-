@@ -32,5 +32,10 @@ The goal of this analysis was to understand how different variables affect house
 - Removing “year” slightly reduced R² to **0.88**, showing moderate impact.
 - Properties with a **sea view** consistently had higher predicted prices.
 
----
+---Author
+
+Chukwuma Samuel
+Entry-Level Data Scientist
+💼 Tools: Python | MySQL | Excel | Power BI
+📧 Email: chukwumasamuel27@gmail.com
 
